@@ -1,0 +1,6 @@
+[submodule "busybox"]
+	path = busybox
+	url = https://github.com/mirror/busybox
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/buildroot/buildroot
