@@ -1,4 +1,4 @@
-default: all
+default: buildroot
 
 BUILDROOT_DIR              := $(shell pwd)/buildroot
 BUILDROOT_CONFIG           := $(shell pwd)/buildroot-config
